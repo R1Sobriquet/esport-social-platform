@@ -1,0 +1,23 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main, develop ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Frontend Tests
+        run: |
+          cd frontend
+          npm install
+          npm test
+      - name: Backend Tests
+        run: |
+          cd backend
+          composer install
+          composer test
