@@ -1,6 +1,4 @@
-# E-sport Social Gaming Platform
-
-## Quick Start
+# E-sport Social Platforme Gaming 
 
 ### Frontend
 ```bash
@@ -28,5 +26,5 @@ php -S localhost:8000 -t public
 ## Équipe
 - Lead Tech: Erwann
 - Lead Algo: Nathan
-- Lead Dev: Mikaël
+- Lead Dev: Mikhaël
 - Sécurité: Vladimir
