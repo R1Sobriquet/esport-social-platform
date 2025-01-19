@@ -2,7 +2,6 @@
 
 ![Statut](https://img.shields.io/badge/status-en%20développement-yellow)
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Tests](https://github.com/your-org/esport-social-platform/workflows/CI/badge.svg)
 
 > Une plateforme innovante permettant aux joueurs de trouver des partenaires de jeu compatibles basée sur leurs profils, préférences et niveaux de jeu.
 
