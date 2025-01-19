@@ -188,4 +188,4 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE.md](LICENSE.md) pour p
 
 ---
 
-Pour plus d'informations, consultez notre [documentation complète](docs/)
+Pour plus d'informations, consultez R1Sobriquet via GitHub
