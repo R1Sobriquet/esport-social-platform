@@ -186,12 +186,6 @@ Merci de lire [CONTRIBUTING.md](CONTRIBUTING.md) pour les détails sur notre cod
 
 Ce projet est sous licence MIT - voir le fichier [LICENSE.md](LICENSE.md) pour plus de détails.
 
-## 🙏 Remerciements
-
-- L'équipe de développement pour leur engagement
-- La communauté open source
-- Nos beta testeurs
-
 ---
 
-Pour plus d'informations, consultez notre [documentation complète](docs/)
+Pour plus d'informations, consultez R1Sobriquet via GitHub
